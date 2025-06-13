@@ -1,7 +1,7 @@
 # 🛡️ IBM – Introduction to Cybersecurity Tools & Cyberattacks
 
-This repository contains notes from the IBM course **“Introduction to Cybersecurity Tools & Cyberattacks.”**  
-It is the first course in the **IBM Cybersecurity Analyst Certificate**. I’m documenting key lessons as part of my personal initiative to better understand **digital security within engineering systems** — a crucial skill in today’s connected ECE world.
+This repository contains my personal notes from the IBM course **“Introduction to Cybersecurity Tools & Cyberattacks”** on Coursera.  
+As an **ECE student**, I’m taking this course to strengthen my understanding of how cybersecurity principles apply to engineering systems — especially as devices and infrastructure become increasingly connected and vulnerable to digital threats.
 
 ---
 
