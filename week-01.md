@@ -1,4 +1,4 @@
-# 🧠 IBM Cybersecurity Analyst – Week 1 Notes
+# 🧠 IBM – Introduction to Cybersecurity Tools & Cyberattacks (Week 1 Notes)
 
 ---
 
