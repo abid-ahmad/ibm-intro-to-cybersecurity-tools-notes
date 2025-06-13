@@ -22,7 +22,7 @@ This course helps me:
 | Week | Topics Covered |
 |------|----------------|
 | ✅ [Week 1](week-01.md) | Cyberattack case studies, NSDD-145, government policy, 9/11 impacts, critical thinking |
-| ⏳ Week 2 | Coming soon |
+| ✅ [Week 2](week-02.md) | Threat actors, malware types, rootkits, social engineering, rkhunter, AI & cybersecurity trends |
 
 ---
 
