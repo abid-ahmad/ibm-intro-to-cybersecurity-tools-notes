@@ -49,8 +49,8 @@ Cybersecurity knowledge helps me:
 ## ✍️ Author
 
 **Abid Ahmad**  
-ECE Major | Future Engineer with a Security-First Mindset  
-github •  linkedin 
+📡 ECE Major | Future Engineer with a Security-First Mindset  
+🌐 [GitHub](https://github.com/abid-ahmad) • [LinkedIn](https://www.linkedin.com/in/abid-ahmad-)
 
 ---
 📘 **Disclaimer**: These notes are based on the IBM course *"Introduction to Cybersecurity Tools & Cyberattacks"* on [Coursera](https://www.coursera.org/learn/introduction-cybersecurity-cyber-attacks#modules).  
