@@ -17,12 +17,12 @@ This course helps me:
 
 ---
 
-## 📘 Course Overview
-
 | Week | Topics Covered |
 |------|----------------|
 | ✅ [Week 1](week-01.md) | Cyberattack case studies, NSDD-145, government policy, 9/11 impacts, critical thinking |
 | ✅ [Week 2](week-02.md) | Threat actors, malware types, rootkits, social engineering, rkhunter, AI & cybersecurity trends |
+| ✅ [Week 3](week-03.md) | Network mapping (Nmap), packet sniffing, IP spoofing, injection attacks (SQLi/XSS), SIEM, IR lifecycle |
+| ✅ [Week 4](week-04.md) | IAM (4 A’s), access control models (RBAC, ABAC, MAC), authentication (MFA, SSO), password security, physical threats |
 
 ---
 
