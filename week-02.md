@@ -101,5 +101,5 @@ To prevent malware attacks:
 
 ---
 
-📘 **Disclaimer**: These notes are based on the IBM course *"Introduction to Cybersecurity Tools & Cyberattacks"* on [Coursera](https://www.coursera.org/learn/introduction-cybersecurity-tools-cyberattacks).  
-They are written for personal learning and educational use only.
+📘 **Disclaimer**: These notes are based on the IBM course *"Introduction to Cybersecurity Tools & Cyberattacks"* on [Coursera](https://www.coursera.org/learn/introduction-cybersecurity-cyber-attacks#modules).  
+They are written for **personal learning and educational use only**.
