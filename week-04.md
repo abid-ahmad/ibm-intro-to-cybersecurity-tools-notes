@@ -74,3 +74,5 @@ IAM focuses on managing digital identities and regulating access to systems and 
 - Goal: Maintain **data security** and ensure **operational continuity**
 
 ---
+📘 **Disclaimer**: These notes are based on the IBM course *"Introduction to Cybersecurity Tools & Cyberattacks"* on [Coursera](https://www.coursera.org/learn/introduction-cybersecurity-cyber-attacks#modules).  
+They are written for **personal learning and educational use only**.
